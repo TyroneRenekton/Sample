@@ -8,3 +8,6 @@ b=20
 
 c=a+b
 print("The value of c is ", c)
+
+def mul(a, b):
+	return (a*b)
