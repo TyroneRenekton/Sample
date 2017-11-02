@@ -8,3 +8,5 @@ print ("var2[1:5]: ", var2[1:5]) # 切片加索引
 def (a , b)
 	return a+b
 
+def len(a, b) 
+	return (a.len + b.len)
